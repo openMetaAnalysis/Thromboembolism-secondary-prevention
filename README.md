@@ -30,9 +30,6 @@ The network map for the primary outcomes are below. Additional [network maps](fi
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
 
-The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
-![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
-
 References:
 ----------------------------------
 
