@@ -1,10 +1,10 @@
-Template: clinical question
+Venous thromboembolism secondary prevention
 ============================================
 A living systematic review
 
-Short url: http://
+Short url: https://github.com/openMetaAnalysis/Venous-thromboembolism-secondary-prevention
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I2 was '[moderate](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates the previously published meta-analysis.(1)
+**Clinical summary:** This network meta-analysis of multiple treatment comparisons suggests that the most effective treatment is *x*. Heterogeneity of results as measured by I2 was '[moderate](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates the previously published meta-analysis.(1)
 
 Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention.
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
@@ -23,6 +23,9 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior s
 * [Forest plots](../master/files/forest-plots) ([source data](files/data))
 * [Network plots](../master/files/network) (optional)
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf)
+
+The network map for the primary outcomes are below. Additional [network maps](files/network) of secondary analyses may be available. 
+![Principle results](files/network/Outcome-Primary.png)
 
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
