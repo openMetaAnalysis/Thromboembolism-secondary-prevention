@@ -2,7 +2,7 @@ Venous thromboembolism secondary prevention
 ============================================
 A living systematic review
 
-Short url: https://github.com/openMetaAnalysis/Venous-thromboembolism-secondary-prevention
+Short url: https://openMetaAnalysis.github.io/Venous-thromboembolism-secondary-prevention
 
 **Clinical summary:** This network meta-analysis of multiple treatment comparisons suggests that the most effective treatment is *x*. Heterogeneity of results as measured by I2 was '[moderate](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates the previously published meta-analysis.(1)
 
