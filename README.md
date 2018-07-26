@@ -1,6 +1,6 @@
 Venous thromboembolism secondary prevention
 ============================================
-A living systematic review
+A living systematic review: **under construction** *lit search and writing have not been completed. Part of writing below are from a template and irrelevant to this topic.*
 
 Short url: https://openMetaAnalysis.github.io/Venous-thromboembolism-secondary-prevention
 
