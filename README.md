@@ -35,15 +35,21 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Ammendolia C, Stuber KJ, Rok E, Rampersaud R, Kennedy CA, Pennick V, Steenstra IA, de Bruin LK, Furlan AD. Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication. Cochrane Database Syst Rev. 2013 Aug 30;8:CD010712. PMID: [23996271](http://pubmed.gov/23996271).
+1. Vasanthamohan L, Boonyawat K, Chai-Adisaksopha C, Crowther M. Reduced-dose direct oral anticoagulants in the extended treatment of venous thromboembolism: a systematic review and meta-analysis. J Thromb Haemost. 2018 Jul;16(7):1288-1295.  doi: 10.1111/jth.14156. PMID: [29772108](http://pubmed.gov/29772108).
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Friedly JL, Comstock BA, Turner JA, Heagerty PJ, Deyo RA, Sullivan SD, Bauer Z, Bresnahan BW, Avins AL, Nedeljkovic SS, Nerenz DR, Standaert C, Kessler L, Akuthota V, Annaswamy T, Chen A, Diehn F, Firtch W, Gerges FJ, Gilligan C,
-Goldberg H, Kennedy DJ, Mandel S, Tyburski M, Sanders W, Sibell D, Smuck M, Wasan A, Won L, Jarvik JG. A randomized trial of epidural glucocorticoid injections for spinal stenosis. N Engl J Med. 2014 Jul 3;371(1):11-21. PMID: [24988555](http://pubmed.gov/24988555).
+None
 
 #### Trial(s) included in the review above
-1. Fukusaki M, Kobayashi I, Hara T, Sumikawa K. Symptoms of spinal stenosis do not improve after epidural steroid injection. Clin J Pain. 1998 Jun;14(2):148-51. PMID:[9647457](http://pubmed.gov/9647457).
+1. Weitz JI, Lensing AWA, Prins MH, Bauersachs R, Beyer-Westendorf J, Bounameaux H, Brighton TA, Cohen AT, Davidson BL, Decousus H, Freitas MCS, Holberg G, Kakkar AK, Haskell L, van Bellen B, Pap AF, Berkowitz SD, Verhamme P, Wells PS, Prandoni P; EINSTEIN CHOICE Investigators. Rivaroxaban or Aspirin for Extended Treatment of Venous Thromboembolism. N Engl J Med. 2017 Mar 30;376(13):1211-1222. doi: 10.1056/NEJMoa1700518. PMID: [28316279](http://pubmed.gov/28316279).
+2. Schulman S, Kearon C, Kakkar AK, Schellong S, Eriksson H, Baanstra D, Kvamme AM, Friedman J, Mismetti P, Goldhaber SZ; RE-MEDY Trial Investigators; RE-SONATE Trial Investigators. Extended use of dabigatran, warfarin, or placebo in venous thromboembolism. N Engl J Med. 2013 Feb 21;368(8):709-18. doi: 10.1056/NEJMoa1113697.PMID: [23425163](http://pubmed.gov/23425163).
+3. Agnelli G, Buller HR, Cohen A, Curto M, Gallus AS, Johnson M, Porcari A, Raskob GE, Weitz JI; AMPLIFY-EXT Investigators. Apixaban for extended treatment of venous thromboembolism. N Engl J Med. 2013 Feb 21;368(8):699-708. doi: 10.1056/NEJMoa1207541. PMID: [23216615](http://pubmed.gov/23216615).
+4. Brighton TA, Eikelboom JW, Mann K, Mister R, Gallus A, Ockelford P, Gibbs H, Hague W, Xavier D, Diaz R, Kirby A, Simes J; ASPIRE Investigators. Low-dose aspirin for preventing recurrent venous thromboembolism. N Engl J Med. 2012 Nov 22;367(21):1979-87. doi: 10.1056/NEJMoa1210384. PMID: [23121403](http://pubmed.gov/23121403).
+5. Becattini C, Agnelli G, Schenone A, Eichinger S, Bucherini E, Silingardi M, Bianchi M, Moia M, Ageno W, Vandelli MR, Grandone E, Prandoni P; WARFASA Investigators. Aspirin for preventing the recurrence of venous thromboembolism. N Engl J Med. 2012 May 24;366(21):1959-67. doi: 10.1056/NEJMoa1114238. PMID: [22621626](http://pubmed.gov/22621626).
+6. Kearon C, Ginsberg JS, Kovacs MJ, Anderson DR, Wells P, Julian JA, MacKinnon B, Weitz JI, Crowther MA, Dolan S, Turpie AG, Geerts W, Solymoss S, van Nguyen P, Demers C, Kahn SR, Kassis J, Rodger M, Hambleton J, Gent M; Extended Low-Intensity Anticoagulation for Thrombo-Embolism Investigators. Comparison of low-intensity warfarin therapy with conventional-intensity warfarin therapy for long-term prevention of recurrent venous thromboembolism. N Engl J Med. 2003 Aug  14;349(7):631-9.  PMID: [12917299](http://pubmed.gov/12917299).
+7. Ridker PM, Goldhaber SZ, Danielson E, Rosenberg Y, Eby CS, Deitcher SR, Cushman M, Moll S, Kessler CM, Elliott CG, Paulson R, Wong T, Bauer KA, Schwartz  BA, Miletich JP, Bounameaux H, Glynn RJ; PREVENT Investigators. Long-term, low-intensity warfarin therapy for the prevention of recurrent venous thromboembolism. N Engl J Med. 2003 Apr 10;348(15):1425-34. Epub 2003 Feb 24. PMID: [12601075](http://pubmed.gov/12601075).
+
 
 #### Trial(s) undergoing review
 None
