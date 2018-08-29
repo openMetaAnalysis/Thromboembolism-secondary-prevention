@@ -36,6 +36,7 @@ References:
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
 1. Vasanthamohan L, Boonyawat K, Chai-Adisaksopha C, Crowther M. Reduced-dose direct oral anticoagulants in the extended treatment of venous thromboembolism: a systematic review and meta-analysis. J Thromb Haemost. 2018 Jul;16(7):1288-1295.  doi: 10.1111/jth.14156. PMID: [29772108](http://pubmed.gov/29772108).
+2. Robertson L, Yeoh SE, Ramli A. Secondary prevention of recurrent venous thromboembolism after initial oral anticoagulation therapy in patients with unprovoked venous thromboembolism. Cochrane Database Syst Rev. 2017 Dec 15;12:CD011088. doi: 10.1002/14651858.CD011088.pub2. PMID: [29244199](http://pubmed.gov/29244199)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
