@@ -52,8 +52,8 @@ None
 7. Ridker PM, Goldhaber SZ, Danielson E, Rosenberg Y, Eby CS, Deitcher SR, Cushman M, Moll S, Kessler CM, Elliott CG, Paulson R, Wong T, Bauer KA, Schwartz  BA, Miletich JP, Bounameaux H, Glynn RJ; PREVENT Investigators. Long-term, low-intensity warfarin therapy for the prevention of recurrent venous thromboembolism. N Engl J Med. 2003 Apr 10;348(15):1425-34. Epub 2003 Feb 24. PMID: [12601075](http://pubmed.gov/12601075).
 
 
-#### Trial(s) undergoing review
-None
+#### Study(ies) undergoing review
+1. Wang KL, van Es N, Cameron C, Castellucci LA, Büller HR, Carrier M. Extended treatment of venous thromboembolism: a systematic review and network meta-analysis. Heart. 2018 doi:10.1136/heartjnl-2018-313617. MID: [3032739](http://pubmed.gov/3032739)
 
 #### Trial(s) excluded - selected list of important trial(s)
 
