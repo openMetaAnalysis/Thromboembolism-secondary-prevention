@@ -53,7 +53,8 @@ None
 
 
 #### Study(ies) undergoing review
-1. Wang KL, van Es N, Cameron C, Castellucci LA, Büller HR, Carrier M. Extended treatment of venous thromboembolism: a systematic review and network meta-analysis. Heart. 2018 doi:10.1136/heartjnl-2018-313617. MID: [3032739](http://pubmed.gov/3032739)
+1. Wang KL, van Es N, Cameron C, Castellucci LA, Büller HR, Carrier M. Extended treatment of venous thromboembolism: a systematic review and network meta-analysis. Heart. 2018 doi:10.1136/heartjnl-2018-313617. PMID: [3032739](http://pubmed.gov/3032739)
+2. Ebraheem M, Alzahrani I, Crowther M, Rochwerg B, Almakadi M. Extended DOAC therapy in patients with VTE and potential risk of recurrence: a systematic review and meta-analysis. J Thromb Haemost. 2020 Jun 8. doi: 10.1111/jth.14949. Epub ahead of print. PMID: [32510840](http://pubmed.gov/32510840).
 
 #### Trial(s) excluded - selected list of important trial(s)
 
